@@ -17,6 +17,6 @@ class  main {
 		System.out.println(s2.id +" "+ s2.name);
 	}
 		
-}
+} 
 
 

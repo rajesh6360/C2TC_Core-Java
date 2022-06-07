@@ -17,4 +17,4 @@ String method(String stra) {
 	
 	}
 
-} 
+}  
